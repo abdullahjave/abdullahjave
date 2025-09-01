@@ -49,12 +49,21 @@
 
 ---
 
-## 🏆 Achievements
-- ✅ Successfully implemented **YOLO-based real-time object detection systems**  
-- ✅ Developed multiple **Flutter** with clean UI and responsive design  
-- ✅ Published **machine learning projects and datasets on GitHub**
-- ✅ Developed **machine learning projects , Deep Learning Projects into Streamlit and Gridio**  
+---
 
+## 🏆 Achievements & Certifications
+
+- ✅ Successfully implemented **YOLO-based real-time object detection systems**  
+- ✅ Developed multiple **Flutter apps** with clean UI and responsive design  
+- ✅ Published **machine learning projects and datasets on GitHub**  
+- ✅ Deployed **ML & DL projects on Streamlit and Gradio**  
+
+### 📜 Certifications
+[![Coursera](https://img.shields.io/badge/Coursera-Neural%20Networks%20and%20Deep%20Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/D8RO9JK9V55L)  
+[![Udemy](https://img.shields.io/badge/Udemy-Modern%20JavaScript%20Certification-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-bc05bb68-1693-4748-96b0-e7703188fd10/)
+
+---
+🔑 Changes:
 
 ---
 
