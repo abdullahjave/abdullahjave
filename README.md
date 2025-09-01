@@ -68,6 +68,7 @@
 ---
 
 ## 📊 GitHub Stats
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahjave&show_icons=true&theme=radical)
 
 ---
 
