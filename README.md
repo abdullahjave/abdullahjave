@@ -55,7 +55,7 @@
 
 - ✅ Successfully implemented **YOLO-based real-time object detection systems**  
 - ✅ Developed multiple **Flutter apps** with clean UI and responsive design  
-- ✅ Published **machine learning projects and datasets on GitHub**  
+- ✅ Published **machine learning projects on GitHub**  
 - ✅ Deployed **ML & DL projects on Streamlit and Gradio**  
 
 ### 📜 Certifications
