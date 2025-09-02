@@ -17,7 +17,7 @@
 ## 💡 About Me
 - 🤖 Passionate about **Machine Learning, Deep Learning, and Computer Vision**  
 - 💻 Skilled in **Flutter, React.js, Python, C++, Java**  
-- 🖼️ YOLO Specialist: **Object Detection & Tracking**  
+- 🖼️ YOLO : **Object Detection & Tracking**  
 - 🌱 Exploring **advanced ML models** and AI-driven applications  
 - ⚡ Turning ideas into **smart apps and intelligent systems**
 
