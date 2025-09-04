@@ -9,8 +9,9 @@
 ---
 
 ## 👀 Profile
-I am passionate about **Machine Learning, Deep Learning, and Computer Vision**, with expertise in **Flutter, React.js, Python, C++, and Java**. Experienced in building **YOLO-based Object Detection & Tracking systems** and developing **intelligent applications**.
+I am passionate about **Machine Learning, Deep Learning, and Computer Vision**, with expertise in **Flutter, React.js, Python, C++, and Java**. Good in building **YOLO-based Object Detection & Tracking systems** and developing **intelligent applications**.
 
+https://abdullahjaved-portfolio.vercel.app/
 ---
 
 ## 🛠️ Skills
@@ -25,26 +26,26 @@ I am passionate about **Machine Learning, Deep Learning, and Computer Vision**, 
 `TensorFlow` `PyTorch` `YOLO` `OpenCV` `NLP` `RAG`
 
 ### Frameworks & Libraries
-`Streamlit` `Gradio` `Django` `Flask` `React` `Node.js` `Express`  
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `SciPy` `Scikit-learn` `Keras` `NLTK` `LangChain`
+`Streamlit` `Gradio`  `Flask` `React` `Node.js` `Express`  
+`Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Keras`
 
 ### Databases & Cloud
-`MySQL` `ChromaDB` `Azure`
+`MySQL` `MongoDB`
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science** (2022–2025, In Progress)  
+**Bachelor of Science in Computer Science** (2022–2026, In Progress)  
 COMSATS University Islamabad, Wah Campus, Pakistan  
 **Division:** 1st  
 
 **Higher Secondary School Certificate (FSC, Science)** (2019–2021)  
-Federal Board of Intermediate and Secondary Education (FBISE), Islamabad, Pakistan  
+Askaria Collage wah Cantt, Pakistan  
 **Division:** 1st  
 
 **Secondary School Certificate (Science)** (2016–2018)  
-Federal Board of Intermediate and Secondary Education (FBISE), Islamabad, Pakistan  
+FG Public High School ,Wah Cantt , Pakistan  
 **Division:** 1st  
 
 ---
