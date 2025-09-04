@@ -10,7 +10,7 @@
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdullahjave&color=blue)
+![Profile Views]([https://komarev.com/ghpvc/?username=abdullahjave&color=blue](https://abdullahjaved-portfolio.vercel.app/))
 
 ---
 
@@ -40,12 +40,13 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [YOLO Mask Detection](https://github.com/abdullahjave/YOLOv7-in-GPU-Mode) | Detect masks in images & videos in real-time | Python, YOLOv7/v8 |
-| [Data Structure in C](https://github.com/abdullahjave/Data_Structure_in_C) | Implemented all major data structures in C | C |
-| [BMI Calculator Flutter](https://github.com/abdullahjave/BMI-Calculator-Flutter) | Mobile BMI calculator app | Flutter |
+| [Squat-Counter-pose-using-yolov7](https://github.com/abdullahjave/Squat-Counter-pose-using-yolov7) |  Real-time Squat Detection:| Python, YOLOv7/v8 |
+| [YOLO Mask Detection](https://github.com/abdullahjave/Yolov8-facemask-detection-with-UI) | Detect masks in images & videos in real-time | Python, YOLOv7/v8 |
 | [Movie Recommendation System](https://github.com/abdullahjave/Movie-Recomendation-System-using-ML) | ML-based movie recommender | Python, ML |
 | [SMS Spam Classifier](https://github.com/abdullahjave/SMS-Spam-Classifier) | Classify SMS messages as spam or ham | Python, ML |
+| [BMI Calculator Flutter](https://github.com/abdullahjave/BMI-Calculator-Flutter) | Mobile BMI calculator app | Flutter |
 | [Java Projects](https://github.com/abdullahjave/Java) | Various Java projects & implementations | Java |
+| [Data Structure in C](https://github.com/abdullahjave/Data_Structure_in_C) | Implemented all major data structures in C | C |
 
 ---
 
