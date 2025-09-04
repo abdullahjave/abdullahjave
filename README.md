@@ -40,8 +40,10 @@ https://abdullahjaved-portfolio.vercel.app
 
 | Project | Description | Tech |
 |---------|-------------|------|
+
+| [YOLOv9-Vehicle-Speed-Estimation-Dashboard](https://github.com/abdullahjave/YOLOv9-Vehicle-Speed-Estimation-Dashboard.git) | Real-time vehicle detection, counting, and speed estimation | YOLOv9 and Streamlit
 | [Squat-Counter-pose-using-yolov7](https://github.com/abdullahjave/Squat-Counter-pose-using-yolov7) |  Real-time Squat Detection:| Python, YOLOv7/v8 |
-| [YOLO Mask Detection](https://github.com/abdullahjave/Yolov8-facemask-detection-with-UI) | Detect masks in images & videos in real-time | Python, YOLOv7/v8 |
+| [YOLOv7-in-GPU-Mode](https://github.com/abdullahjave/YOLOv7-in-GPU-Mode.git) | Detection Objects coco in images & videos in real-time | Python, YOLOv7/v8 |
 | [Movie Recommendation System](https://github.com/abdullahjave/Movie-Recomendation-System-using-ML) | ML-based movie recommender | Python, ML |
 | [SMS Spam Classifier](https://github.com/abdullahjave/SMS-Spam-Classifier) | Classify SMS messages as spam or ham | Python, ML |
 | [BMI Calculator Flutter](https://github.com/abdullahjave/BMI-Calculator-Flutter) | Mobile BMI calculator app | Flutter |
