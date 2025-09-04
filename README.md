@@ -10,7 +10,7 @@
 
 ## 👀 Profile Views
 
-![Profile Views](https://abdullahjaved-portfolio.vercel.app/)
+https://abdullahjaved-portfolio.vercel.app
 
 ---
 
