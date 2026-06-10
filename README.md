@@ -36,7 +36,7 @@ https://abdullahjaved-portfolio.vercel.app/
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science** (2022–2026, In Progress)  
+**Bachelor of Science in Computer Science** (2022–2026)  
 COMSATS University Islamabad, Wah Campus, Pakistan  
 **Division:** 1st  
 
