@@ -1,3 +1,7 @@
+<!-- ===================== HEADER ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:0E7490,100:6D28D9&height=230&section=header&text=Abdullah%20Javed&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Computer%20Vision&descSize=18&descAlignY=60&animation=fadeIn" alt="Abdullah Javed - Computer Science, AI, Computer Vision" width="100%" /> <a href="https://github.com/abdullahjave"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Computer+Vision+%7C+Object+Detection+%7C+YOLO;Machine+Learning+and+Deep+Learning;AI+Agents+%7C+MCP+%7C+Multimodal+AI;Building+practical+AI%2C+learning+in+public" alt="Computer vision, object detection, YOLO, machine learning, AI agents and MCP" /> </a> <br />
+
+<a href="https://github.com/abdullahjave"><img src="https://img.shields.io/badge/GitHub-abdullahjave-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/abdullah-javed-a1b316310/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://abdullahjaved-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> <a href="mailto:abdjaved634@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 # Abdullah Javed
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=false&vCenter=true&width=620&height=40&lines=Computer+Vision+%7C+Machine+Learning+%7C+Practical+AI;Object+Detection+with+YOLO+and+OpenCV;Building+projects%2C+learning+in+public)](https://github.com/abdullahjave)
@@ -106,3 +110,9 @@ Hi, I'm Abdullah Javed, a Computer Science and AI enthusiast from Pakistan, focu
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@visionwithabdullah)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/have__vision__/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdjaved634@gmail.com)
+
+Build · Learn · Experiment · Share
+
+<sub>Thanks for visiting! If you find something useful, feel free to explore my repositories and connect.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:0E7490,100:0B1020&height=110&section=footer" alt="" width
