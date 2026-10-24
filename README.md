@@ -1,65 +1,84 @@
 <div align="center">
 
-👋 Hi, I'm Abdullah Javed!
-🤖 AI & Machine Learning · 👁️ Computer Vision · 💻 Software Development
-🎓 Final-Year BS Computer Science Student
-COMSATS University Islamabad — Wah Campus, Pakistan
+Hi there 👋 I'm Abdullah Javed
+🚀 AI & ML Enthusiast | Flutter & React Developer | YOLO & Computer Vision Explorer
 
-🌐 Portfolio · 💼 LinkedIn · 📧 Email · 🐙 GitHub
 
-Building intelligent applications, learning by doing, and contributing to open source.
+
+
 </div>
 
-🚀 About Me
-I'm a Computer Science student passionate about AI, Machine Learning, and Computer Vision. I build practical projects with Python, YOLO, OpenCV, Flutter, and React and enjoy collaborating on open-source research.
-- 🔭 Focus: Computer Vision, object detection & intelligent applications
-- 🌱 Exploring: AI agents, MCP & scientific computing
-- 🤝 Open to: AI projects, research & open-source collaboration
-🛠️ Tech Stack
-Area	Skills
-💻 Languages	Python · C++ · Java · JavaScript · Dart · SQL
-🧠 AI & Computer Vision	OpenCV · YOLO · PyTorch · TensorFlow · scikit-learn · NumPy · Pandas
-🌐 Web & Mobile	React · Flutter · Flask · Streamlit · Node.js
-🗄️ Data & Tools	MySQL · MongoDB · Git · GitHub · Jupyter · MCP
+👀 Profile
+I'm a final-year Computer Science student at COMSATS University Islamabad, Wah Campus, passionate about Machine Learning, Deep Learning, and Computer Vision. I build practical AI applications using Python, OpenCV, YOLO, Flutter, and React and enjoy contributing to open-source projects.
 
-
+🌐 Portfolio: abdullahjaved-portfolio.vercel.app
+🛠️ Skills
+💻 Programming & Tools
+     
+🌐 Web & Mobile Development
+   
+🧠 Machine Learning & Computer Vision
+      
+⚙️ Frameworks, Databases & AI Tools
+     
 🌍 Open-Source Contribution
 🧬 KnowledgeIsPower — OSI Hackathon 2026
-Role: S5 Contributor — MCP Client Integration, Testing & Documentation
+Role: Open-Source Contributor — MCP Client Integration & Documentation (S5)
 
-Contributed to scp-graphfs-mcp, a scientific AI project exploring how biological knowledge and AI agents can help impute missing protein measurements in single-cell proteomics.
-- 🤖 Claude Code: Installed and configured the CLI; connected and verified the MCP server via STDIO. (No real Claude Code session transcript completed by me.)
-- 🔌 GitHub Copilot CLI: Connected all six MCP tools and ran a real scientific agent session.
-- 🧪 Scientific analysis: Studied the 26S proteasome in Petrosius 2023; 31 of 33 subunits measured. In a 26S-only subset, 607 of 638 missing values were filled from partners, with 31 kNN fallback imputations.
-- 📝 Reproducibility: Ran offline tests and published a setup recipe plus redacted session transcript through merged PR #8.
-Team result: On the final reported holdout, the team's reference-based method reduced imputation error by 2.4–5.4% versus the strongest data-only baseline. The team also reported replication limitations.
+Contributed to scp-graphfs-mcp, a scientific AI project exploring missing-protein imputation in single-cell proteomics using biological knowledge and AI agents.
+- Claude Code: Configured the CLI and verified the MCP server connection over STDIO.
+- GitHub Copilot CLI: Connected all six MCP tools and ran a real scientific agent session.
+- Scientific analysis: Examined the 26S proteasome in Petrosius 2023: 31/33 subunits measured; 607/638 missing values in a 26S-only subset filled using complex partners, with 31 kNN fallbacks.
+- Testing & documentation: Ran offline tests, wrote a reproducible integration guide, and published a redacted session transcript in merged PR #8.
+Team result: The final reported holdout showed 2.4–5.4% lower imputation error than the strongest data-only baseline, with replication limitations disclosed.
 
-🔗 My Merged PR #8 · Project Code · OSI Hackathon · Official Submission
-📌 Featured Public Projects
+📌 Project Repository · My Merged PR #8 · OSI Hackathon · Submission
+🚀 Projects
 Project	Description	Tech
-🚗 Vehicle Speed Estimation	Detect, count & estimate vehicle speeds	YOLOv9, Streamlit
-🏋️ Squat Counter	Real-time pose-based squat counting	YOLOv7, Python
-🎬 Movie Recommender	ML-powered movie recommendations	Python, ML
-📱 SMS Spam Classifier	Spam/ham message classification	Python, NLP
-💪 BMI Calculator	Mobile BMI calculator	Flutter, Dart
-🧠 Neural Networks & Deep Learning	Deep learning experiments	Jupyter
+🚗 YOLOv9 Vehicle Speed Estimation	Vehicle detection, counting & speed estimation	YOLOv9, Streamlit
+🏋️ Squat Counter	Real-time squat detection	Python, YOLOv7
+🎥 YOLOv7 GPU Mode	Object detection in images & videos	Python, YOLOv7
+🎬 Movie Recommendation System	ML-based movie recommendations	Python, ML
+📱 SMS Spam Classifier	SMS spam detection	Python, NLP
+💪 BMI Calculator	Responsive mobile BMI app	Flutter
+🧠 Neural Networks & Deep Learning	Deep learning notebooks	Jupyter
+☕ Java Projects	Java programming projects	Java
+🧩 Data Structures	Data structures implementations	C / C++
 
 
 🔎 Explore all my public repositories →
 🎓 Education
-BS Computer Science (2022–2026) · COMSATS University Islamabad, Wah Campus
-Final-year student
-🏆 Highlights
-- 🧬 OSI Hackathon 2026: KnowledgeIsPower team contributor — merged PR #8
-- 👁️ Built practical YOLO-based computer vision projects
-- 📱 Developed Flutter apps and React interfaces
-- 🤝 Experience with AI-agent tooling, MCP, and open-source collaboration
+Bachelor of Science in Computer Science (2022–2026)
+COMSATS University Islamabad, Wah Campus, Pakistan · Final-year student
+
+Higher Secondary School Certificate — Science (2019–2021)
+Askaria College, Wah Cantt, Pakistan · 1st Division
+
+Secondary School Certificate — Science (2016–2018)
+FG Public High School, Wah Cantt, Pakistan · 1st Division
+🏆 Achievements & Certifications
+- 🧬 OSI Hackathon 2026: KnowledgeIsPower contributor — merged PR #8
+- 👁️ Built YOLO-based object detection and tracking projects
+- 📱 Developed responsive Flutter apps and React interfaces
+- ☁️ Built ML demos with Streamlit and Gradio
+📜 Certifications & Learning
+
+
+📊 GitHub Stats
 <div align="center">
 
-🤝 Let's Connect!
-💼 LinkedIn · 🌐 Portfolio · 📧 Email Me
 
-🎮 Fun fact: I love strategy games, especially Age of Empires!
+</div>
+
+📬 Contact Information
+- 📧 Email: abdjaved634@gmail.com
+- 💼 LinkedIn: Abdullah Javed
+- 🌐 Portfolio: abdullahjaved-portfolio.vercel.app
+🎮 Fun Fact
+⚡ I love exploring new technologies and turning ideas into working projects.
+🎮 Strategy games enthusiast — especially Age of Empires! ⚔️
+<div align="center">
+
 
 ⭐ Thanks for visiting my GitHub profile!
 </div>
