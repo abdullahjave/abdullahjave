@@ -1,84 +1,42 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Abdullah Javed</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Hi there 👋 I'm Abdullah Javed
-🚀 AI & ML Enthusiast | Flutter & React Developer | YOLO & Computer Vision Explorer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahjave&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahjave" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahjave" alt="abdullahjave" /></a> </p>
 
+- 🔭 I’m currently working on [Nasa Space App Challenge](https://www.spaceappschallenge.org/2026/find-a-team/aero-rehab/?tab=details)
 
+- 🌱 I’m currently learning **Advanced Computer Vision, Multimodal AI & AI Agents**
 
-</div>
+- 👯 I’m looking to collaborate on [AI Agents, MCP & Computer Vision Projects](https://github.com/abdullahjave/knowledgeispower)
 
-👀 Profile
-I'm a final-year Computer Science student at COMSATS University Islamabad, Wah Campus, passionate about Machine Learning, Deep Learning, and Computer Vision. I build practical AI applications using Python, OpenCV, YOLO, Flutter, and React and enjoy contributing to open-source projects.
+- 👨‍💻 All of my projects are available at [https://abdullahjaved-portfolio.vercel.app/](https://abdullahjaved-portfolio.vercel.app/)
 
-🌐 Portfolio: abdullahjaved-portfolio.vercel.app
-🛠️ Skills
-💻 Programming & Tools
-     
-🌐 Web & Mobile Development
-   
-🧠 Machine Learning & Computer Vision
-      
-⚙️ Frameworks, Databases & AI Tools
-     
-🌍 Open-Source Contribution
-🧬 KnowledgeIsPower — OSI Hackathon 2026
-Role: Open-Source Contributor — MCP Client Integration & Documentation (S5)
+- 💬 Ask me about **Python, Computer Vision, YOLO, Machine Learning, Flutter & MCP**
 
-Contributed to scp-graphfs-mcp, a scientific AI project exploring missing-protein imputation in single-cell proteomics using biological knowledge and AI agents.
-- Claude Code: Configured the CLI and verified the MCP server connection over STDIO.
-- GitHub Copilot CLI: Connected all six MCP tools and ran a real scientific agent session.
-- Scientific analysis: Examined the 26S proteasome in Petrosius 2023: 31/33 subunits measured; 607/638 missing values in a 26S-only subset filled using complex partners, with 31 kNN fallbacks.
-- Testing & documentation: Ran offline tests, wrote a reproducible integration guide, and published a redacted session transcript in merged PR #8.
-Team result: The final reported holdout showed 2.4–5.4% lower imputation error than the strongest data-only baseline, with replication limitations disclosed.
+- 📫 How to reach me **abdjaved634@gmail.com**
 
-📌 Project Repository · My Merged PR #8 · OSI Hackathon · Submission
-🚀 Projects
-Project	Description	Tech
-🚗 YOLOv9 Vehicle Speed Estimation	Vehicle detection, counting & speed estimation	YOLOv9, Streamlit
-🏋️ Squat Counter	Real-time squat detection	Python, YOLOv7
-🎥 YOLOv7 GPU Mode	Object detection in images & videos	Python, YOLOv7
-🎬 Movie Recommendation System	ML-based movie recommendations	Python, ML
-📱 SMS Spam Classifier	SMS spam detection	Python, NLP
-💪 BMI Calculator	Responsive mobile BMI app	Flutter
-🧠 Neural Networks & Deep Learning	Deep learning notebooks	Jupyter
-☕ Java Projects	Java programming projects	Java
-🧩 Data Structures	Data structures implementations	C / C++
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/abdullah_javed_287f38c45e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/abdullah_javed_287f38c45e" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-javed-a1b316310/?isselfprofile=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-javed-a1b316310/?isselfprofile=true" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100093627834837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100093627834837" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/have__vision__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/have__vision__/" height="30" width="40" /></a>
+<a href="https://medium.com/@abdjaved634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdjaved634" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@visionwithabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@visionwithabdullah" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/abdullahjav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abdullahjav/" height="30" width="40" /></a>
+</p>
 
-🔎 Explore all my public repositories →
-🎓 Education
-Bachelor of Science in Computer Science (2022–2026)
-COMSATS University Islamabad, Wah Campus, Pakistan · Final-year student
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-Higher Secondary School Certificate — Science (2019–2021)
-Askaria College, Wah Cantt, Pakistan · 1st Division
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahjave&show_icons=true&locale=en&layout=compact" alt="abdullahjave" /></p>
 
-Secondary School Certificate — Science (2016–2018)
-FG Public High School, Wah Cantt, Pakistan · 1st Division
-🏆 Achievements & Certifications
-- 🧬 OSI Hackathon 2026: KnowledgeIsPower contributor — merged PR #8
-- 👁️ Built YOLO-based object detection and tracking projects
-- 📱 Developed responsive Flutter apps and React interfaces
-- ☁️ Built ML demos with Streamlit and Gradio
-📜 Certifications & Learning
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahjave&show_icons=true&locale=en" alt="abdullahjave" /></p>
 
-
-📊 GitHub Stats
-<div align="center">
-
-
-</div>
-
-📬 Contact Information
-- 📧 Email: abdjaved634@gmail.com
-- 💼 LinkedIn: Abdullah Javed
-- 🌐 Portfolio: abdullahjaved-portfolio.vercel.app
-🎮 Fun Fact
-⚡ I love exploring new technologies and turning ideas into working projects.
-🎮 Strategy games enthusiast — especially Age of Empires! ⚔️
-<div align="center">
-
-
-⭐ Thanks for visiting my GitHub profile!
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahjave&" alt="abdullahjave" /></p>
