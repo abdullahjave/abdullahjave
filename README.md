@@ -2,114 +2,110 @@
 
 <a href="https://github.com/abdullahjave"><img src="https://img.shields.io/badge/GitHub-abdullahjave-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/abdullah-javed-a1b316310/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://abdullahjaved-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> <a href="mailto:abdjaved634@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-# Abdullah Javed
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=false&vCenter=true&width=620&height=40&lines=Computer+Vision+%7C+Machine+Learning+%7C+Practical+AI;Object+Detection+with+YOLO+and+OpenCV;Building+projects%2C+learning+in+public)](https://github.com/abdullahjave)
+<div align="center">
 
-Hi, I'm Abdullah Javed, a Computer Science and AI enthusiast from Pakistan, focused on Computer Vision, Machine Learning, and practical AI applications. I enjoy building projects, experimenting with new technologies, and sharing what I learn.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:0E7490,100:6D28D9&height=220&section=header&text=Abdullah%20Javed&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Computer%20Vision%20%7C%20Machine%20Learning%20%7C%20Practical%20AI&descSize=18&descAlignY=61&animation=fadeIn" alt="Abdullah Javed - Computer Vision, Machine Learning and Practical AI" width="100%" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahjave)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-javed-a1b316310/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullahjaved-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdjaved634@gmail.com)
+<a href="https://github.com/abdullahjave"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+useful+AI+systems;Computer+Vision+%7C+YOLO+%7C+OpenCV;Machine+Learning+%7C+Web+%7C+Flutter;Learning+in+public+and+shipping+projects" alt="Building useful AI systems, computer vision, machine learning and web projects" /></a>
 
----
+<p>
+  <a href="https://abdullahjaved-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abdullah-javed-a1b316310/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abdjaved634@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## About Me
+![Profile views](https://komarev.com/ghpvc/?username=abdullahjave&label=Profile%20views&color=0e7490&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/abdullahjave?label=Followers&style=flat&color=6d28d9)
 
-- 🔭 **Working on:** Computer Vision projects and practical AI applications.
-- 🌱 **Learning:** Advanced Computer Vision, Multimodal AI, AI Agents, and MCP.
-- 🤝 **Open to:** Open-source contributions, hackathons, and AI/ML collaborations.
-- 💬 **Ask me about:** Python, OpenCV, YOLO, Machine Learning, and Flutter.
-- 📫 **Email:** [abdjaved634@gmail.com](mailto:abdjaved634@gmail.com)
-- 🌐 **Portfolio:** [Visit my portfolio](https://abdullahjaved-portfolio.vercel.app/)
+</div>
 
----
+## About me
 
-## Tech Stack
+I am a Computer Science and AI enthusiast from Pakistan who enjoys turning ideas into working software. My current focus is **computer vision**, **object detection**, and **machine-learning applications** that are easy to understand and useful in the real world.
 
-**AI & Computer Vision**
+- Building with Python, OpenCV, YOLO, scikit-learn, Streamlit and Flutter
+- Exploring deep learning, multimodal AI, AI agents and MCP
+- Interested in open-source collaboration, hackathons and practical AI products
+- I share experiments, coursework and project learnings through public repositories
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+> **Currently:** improving my computer-vision portfolio and building more complete, documented applications.
 
-**Programming**
+## What I work with
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,dart,opencv,pytorch,tensorflow,sklearn,numpy,pandas,flask,react,flutter,mysql,git,github,docker,vscode,jupyter&perline=10" alt="Python, C++, Java, JavaScript, Dart, OpenCV, PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, Flask, React, Flutter, MySQL, Git, GitHub, Docker, VS Code and Jupyter" />
+</p>
 
-**Development**
+## Featured work
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-3B3B3B?style=flat-square&logo=flask&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+| Project | What it demonstrates |
+| --- | --- |
+| [YOLOv9 Vehicle Speed Estimation Dashboard](https://github.com/abdullahjave/YOLOv9-Vehicle-Speed-Estimation-Dashboard) | Real-time vehicle detection, tracking, counting and speed estimation with an interactive Streamlit dashboard. |
+| [Squat Counter with YOLOv7 Pose](https://github.com/abdullahjave/Squat-Counter-pose-using-yolov7) | Pose estimation applied to real-time fitness repetition counting. |
+| [YOLOv7 in GPU Mode](https://github.com/abdullahjave/YOLOv7-in-GPU-Mode) | GPU-oriented object-detection experiments and setup notes. |
+| [SMS Spam Classifier](https://github.com/abdullahjave/SMS-Spam-Classifier) | A practical text-classification project with multiple ML approaches and interactive interfaces. |
+| [Movie Recommendation System](https://github.com/abdullahjave/Movie-Recomendation-System-using-ML) | A content-based recommendation system with Streamlit, Flask and Flutter components. |
+| [FooWs Clan Project](https://github.com/abdullahjave/FooWs-Clan-Project) | A deployed JavaScript web project: [live demo](https://foo-ws-clan-project-pe4s.vercel.app). |
+| [Portfolio Site](https://github.com/abdullahjave/portfolio-site) | My personal portfolio for AI, computer vision and web-development projects. |
+| [Snake Game](https://github.com/abdullahjave/Snake-game-Modern-JavaScript) | A focused JavaScript project for practicing browser-game fundamentals. |
 
-**Tools**
+<p align="center">
+  <a href="https://github.com/abdullahjave?tab=repositories"><img src="https://img.shields.io/badge/Explore_all_public_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all public repositories" /></a>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+## Learning lab
 
----
+These repositories show the foundations behind my current work:
 
-## Featured Projects
+- [Neural Networks and Deep Learning](https://github.com/abdullahjave/Neural-Networks-and-Deep-Learning)
+- [Credit Scoring Prediction](https://github.com/abdullahjave/Credit-Scoring-Prediction)
+- [Data Structures in C++](https://github.com/abdullahjave/Data_Structure_in_C)
+- Python image-processing coursework (private learning repository)
+- [Java OOP](https://github.com/abdullahjave/Java)
+- [MySQL Practice](https://github.com/abdullahjave/MySQL-)
 
-- **[YOLOv9 Vehicle Speed Estimation Dashboard](https://github.com/abdullahjave/YOLOv9-Vehicle-Speed-Estimation-Dashboard)** — Real-time vehicle detection, counting, and speed estimation with a Streamlit dashboard.
-- **[Squat Counter with YOLOv7 Pose](https://github.com/abdullahjave/Squat-Counter-pose-using-yolov7)** — Counts squats in real time from video or webcam using pose estimation.
-- **[YOLOv7 in GPU Mode](https://github.com/abdullahjave/YOLOv7-in-GPU-Mode)** — YOLOv7 object detection set up for GPU acceleration, with guides and a GPU check notebook.
-- **[Movie Recommendation System](https://github.com/abdullahjave/Movie-Recomendation-System-using-ML)** — Content-based recommender with Streamlit, Flask API, and Flutter apps.
+## GitHub activity
 
-[Explore All Repositories](https://github.com/abdullahjave?tab=repositories)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahjave&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Abdullah Javed's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjave&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</div>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abdullahjave&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
-## GitHub Stats & Analytics
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahjave&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
 
-<img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abdullahjave&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjave&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+## Certificates, hackathons and community
 
-<img height="150" alt="Contribution streak" src="https://streak-stats.demolab.com?user=abdullahjave&theme=tokyonight&hide_border=true" />
+I am collecting verified certificates, hackathon submissions and community milestones as I complete them. This profile intentionally does not claim awards or credentials without a public link.
 
----
+If you have a certificate, hackathon project, talk or collaboration to add, open an issue or contact me and I will feature it here with the original proof link.
 
-## Contribution Activity
+## Learn with me
 
-<img alt="Contribution calendar" src="https://ghchart.rshah.org/22D3EE/abdullahjave" width="100%" />
+<a href="https://dev.to/abdullah_javed_287f38c45e"><img src="https://img.shields.io/badge/DEV Community-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="DEV Community" /></a>
+<a href="https://medium.com/@abdjaved634"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://www.youtube.com/@visionwithabdullah"><img src="https://img.shields.io/badge/YouTube-Vision%20With%20Abdullah-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Vision With Abdullah YouTube channel" /></a>
+<a href="https://leetcode.com/u/abdullahjav/"><img src="https://img.shields.io/badge/LeetCode-abdullahjav-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 
----
+## Connect
 
-## Writing & Learning in Public
+<a href="https://github.com/abdullahjave"><img src="https://img.shields.io/badge/GitHub-abdullahjave-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/abdullah-javed-a1b316310/"><img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Javed-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/have__vision__/"><img src="https://img.shields.io/badge/Instagram-have__vision__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:abdjaved634@gmail.com"><img src="https://img.shields.io/badge/Email-abdjaved634%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Abdullah Javed" /></a>
 
-- 📝 **DEV Community:** [Read my articles](https://dev.to/abdullah_javed_287f38c45e)
-- ✒️ **Medium:** [Read my articles](https://medium.com/@abdjaved634)
-- 🎥 **YouTube:** [Vision With Abdullah](https://www.youtube.com/@visionwithabdullah)
+<div align="center">
 
----
+**Build - Learn - Experiment - Share**
 
-## Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:0E7490,100:0B1020&height=100&section=footer" alt="" width="100%" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahjave)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-javed-a1b316310/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0E7490?style=flat-square&logo=vercel&logoColor=white)](https://abdullahjaved-portfolio.vercel.app/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@abdjaved634)
-[![DEV Community](https://img.shields.io/badge/DEV-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/abdullah_javed_287f38c45e)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/abdullahjav/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@visionwithabdullah)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/have__vision__/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdjaved634@gmail.com)
+</div>
+
 
 Build · Learn · Experiment · Share
 
