@@ -97,10 +97,7 @@ If you have a certificate, hackathon project, talk or collaboration to add, open
 
 <div align="center">
 
-**Build - Learn - Experiment - Share**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:0E7490,100:0B1020&height=100&section=footer" alt="" width="100%" />
-
+**Build - Learn - Experiment - Share*
 </div>
 
 
