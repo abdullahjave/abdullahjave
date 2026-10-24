@@ -1,73 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Abdullah%20Javed&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%7C%20AI%20%7C%20Computer%20Vision&descAlignY=60&descSize=17" width="100%" alt="Abdullah Javed" />
+👋 Hi, I'm Abdullah Javed!
+🤖 AI & Machine Learning · 👁️ Computer Vision · 💻 Software Development
+🎓 Final-Year BS Computer Science Student
+COMSATS University Islamabad — Wah Campus, Pakistan
 
-👋 Hey, I'm Abdullah!
-Final-Year Computer Science Student · AI & Computer Vision Enthusiast
+🌐 Portfolio · 💼 LinkedIn · 📧 Email · 🐙 GitHub
 
-📍 Wah Cantt, Pakistan · 🎓 COMSATS University Islamabad, Wah Campus
-
-
-
+Building intelligent applications, learning by doing, and contributing to open source.
 </div>
 
-👨‍💻 About Me
-I'm a final-year BS Computer Science student interested in building practical applications with machine learning, computer vision, and full-stack development. I enjoy experimenting with YOLO, OpenCV, Python, Flutter, and React, and contributing to open-source projects.
-- 🔭 Currently exploring: Computer Vision, AI agents & MCP
-- 💡 I like building: Intelligent apps, object detection systems & useful tools
-- 🤝 Open to: Open-source collaboration and AI projects
+🚀 About Me
+I'm a Computer Science student passionate about AI, Machine Learning, and Computer Vision. I build practical projects with Python, YOLO, OpenCV, Flutter, and React and enjoy collaborating on open-source research.
+- 🔭 Focus: Computer Vision, object detection & intelligent applications
+- 🌱 Exploring: AI agents, MCP & scientific computing
+- 🤝 Open to: AI projects, research & open-source collaboration
 🛠️ Tech Stack
-<div align="center">
+Area	Skills
+💻 Languages	Python · C++ · Java · JavaScript · Dart · SQL
+🧠 AI & Computer Vision	OpenCV · YOLO · PyTorch · TensorFlow · scikit-learn · NumPy · Pandas
+🌐 Web & Mobile	React · Flutter · Flask · Streamlit · Node.js
+🗄️ Data & Tools	MySQL · MongoDB · Git · GitHub · Jupyter · MCP
 
-Languages
-    
-AI & Computer Vision
-    
-Development & Tools
-      
-</div>
 
 🌍 Open-Source Contribution
 🧬 KnowledgeIsPower — OSI Hackathon 2026
-Role: S5 Contributor — MCP Client Integration & Documentation
+Role: S5 Contributor — MCP Client Integration, Testing & Documentation
 
-Contributed to a scientific AI project that uses MCP-powered agents to explore protein complexes and missing-value imputation in single-cell proteomics.
-- 🤖 Configured Claude Code to connect to the project's MCP server (setup verified; no personal Claude session transcript).
-- 🔌 Integrated GitHub Copilot CLI with all six MCP tools and documented a real agent session.
-- 🧪 Analyzed the 26S proteasome in Petrosius 2023: 31/33 subunits measured; 607/638 missing values filled from partners in a 26S-only subset.
-- 📝 Authored reproducible setup documentation and a redacted transcript in merged PR #8.
-Team result: A reference-based method achieved 2.4–5.4% lower imputation error than the strongest data-only baseline on the final reported holdout; replication limitations were disclosed.
+Contributed to scp-graphfs-mcp, a scientific AI project exploring how biological knowledge and AI agents can help impute missing protein measurements in single-cell proteomics.
+- 🤖 Claude Code: Installed and configured the CLI; connected and verified the MCP server via STDIO. (No real Claude Code session transcript completed by me.)
+- 🔌 GitHub Copilot CLI: Connected all six MCP tools and ran a real scientific agent session.
+- 🧪 Scientific analysis: Studied the 26S proteasome in Petrosius 2023; 31 of 33 subunits measured. In a 26S-only subset, 607 of 638 missing values were filled from partners, with 31 kNN fallback imputations.
+- 📝 Reproducibility: Ran offline tests and published a setup recipe plus redacted session transcript through merged PR #8.
+Team result: On the final reported holdout, the team's reference-based method reduced imputation error by 2.4–5.4% versus the strongest data-only baseline. The team also reported replication limitations.
+
+🔗 My Merged PR #8 · Project Code · OSI Hackathon · Official Submission
+📌 Featured Public Projects
+Project	Description	Tech
+🚗 Vehicle Speed Estimation	Detect, count & estimate vehicle speeds	YOLOv9, Streamlit
+🏋️ Squat Counter	Real-time pose-based squat counting	YOLOv7, Python
+🎬 Movie Recommender	ML-powered movie recommendations	Python, ML
+📱 SMS Spam Classifier	Spam/ham message classification	Python, NLP
+💪 BMI Calculator	Mobile BMI calculator	Flutter, Dart
+🧠 Neural Networks & Deep Learning	Deep learning experiments	Jupyter
 
 
-
-🚀 Featured Projects
-Project	What it does	Stack
-🚗 Vehicle Speed Estimation	Vehicle detection, counting & speed estimation	YOLOv9, Streamlit
-🏋️ Squat Counter	Pose-based squat counting	YOLOv7, Python
-🎬 Movie Recommender	Movie recommendation system	Python, ML
-📱 SMS Spam Classifier	Spam vs. ham prediction	Python, NLP
-💪 BMI Calculator	Mobile BMI calculator	Flutter
-🧠 Deep Learning	Neural network learning & experiments	Jupyter Notebook
-
-
-<div align="center">
-
-🔎 Explore All Public Repositories →
-</div>
-
+🔎 Explore all my public repositories →
 🎓 Education
-BS Computer Science (2022–2026)
-COMSATS University Islamabad — Wah Campus, Pakistan · Final Year
-📊 GitHub Activity
+BS Computer Science (2022–2026) · COMSATS University Islamabad, Wah Campus
+Final-year student
+🏆 Highlights
+- 🧬 OSI Hackathon 2026: KnowledgeIsPower team contributor — merged PR #8
+- 👁️ Built practical YOLO-based computer vision projects
+- 📱 Developed Flutter apps and React interfaces
+- 🤝 Experience with AI-agent tooling, MCP, and open-source collaboration
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjave&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used GitHub languages" />
+🤝 Let's Connect!
+💼 LinkedIn · 🌐 Portfolio · 📧 Email Me
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahjave&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub activity graph" />
+🎮 Fun fact: I love strategy games, especially Age of Empires!
 
-💬 Let's build something useful together!
-
-🎮 Fun fact: I enjoy strategy games, especially Age of Empires!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" alt="Footer" />
-
+⭐ Thanks for visiting my GitHub profile!
 </div>
